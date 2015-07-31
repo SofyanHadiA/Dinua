@@ -1,0 +1,4 @@
+[04-May-2012 16:18:49 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/k7878351/public_html/application/config/routes.php on line 76
+[05-May-2012 00:41:51 UTC] PHP Fatal error:  Call to a member function add() on a non-object in /home/k7878351/public_html/application/controllers/photo.php on line 160
+[05-May-2012 21:35:54 UTC] PHP Fatal error:  Class 'imagick' not found in /home/k7878351/public_html/index.php on line 2
+[05-May-2012 21:35:57 UTC] PHP Fatal error:  Class 'imagick' not found in /home/k7878351/public_html/index.php on line 2

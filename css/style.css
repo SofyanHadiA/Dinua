@@ -1,0 +1,553 @@
+p { text-shadow: 0.8px 0.8px 2px #fff; }
+#container a { text-shadow: 0.5px 0.5px 0px #fff; }
+
+/* body */
+body#beranda{
+    background: #39739C;
+}
+textarea{font-family: sans-serif;}
+
+#container {width:90%; margin:0 auto; background: #fff;}
+
+.border-transparent {
+    border: 5px solid rgb(127, 0, 0);
+    border: 5px solid rgba(255, 0, 0, .5);
+}
+
+.status-like-count{
+    cursor: pointer;
+}
+.like-icon{
+    background: url('/dinua/css/images/icon/like-icon.png') no-repeat aqua;
+    width: 16px;
+    width: 16px;
+}
+
+.cl_orange{color: #F7931E ;}
+.cl_red{color: #D90000 ;}
+.cl_blue{color: #0080FF ;}
+.cl_gray{color: silver}
+.bold{font-weight: bold;}
+
+#content_title{float: left; padding-top: 10px;}
+
+.loading-scroll {
+    background: #ddd;
+	font-size:20px;
+	padding:5px 10px;
+	text-align:center;
+	width:95%;
+}
+
+/*  Photo-Profile  */
+div#photo-profile-wrapper{
+    width: 100%;
+	float:left; /* important */
+	position:relative; /* important(so we can absolutely position the description div */
+}
+div#photo-profile-change-txt{
+	position:absolute; /* absolute position (so we can position it where we want)*/
+	bottom:0px; /* position will be on bottom */
+	left:0px;
+	width:100%;
+	/* styling bellow */
+	background-color:black;
+	font-size:8px;
+	color:white;
+	opacity:0.6; /* transparency */
+	filter:alpha(opacity=60); /* IE transparency */
+    display: none; /* hide it */
+}
+
+#photo-profile{width:100%; height:auto; background: no-repeat center;}
+.photo-profile-small-70px{width:70px; height:70px; border: #ddd 1px solid; background: #ddd no-repeat center ; float: left; margin-right:5px;}
+.photo-profile-small-40px{width:40px; height:40px; border: #ddd 1px solid; background: #ddd no-repeat center ; float: left; margin-right:5px;}
+.photo-profile-small-30px{width:30px; height:30px; border: #ddd 1px solid; background: #ddd no-repeat center ; float: left; margin-right:5px;} 
+/*---------------------------------------------*/
+
+/* Photo */
+.photo-thumb{width: 145px;height: 125px;float: left; margin: 2.5px 2.5px 2.5px 2.5px;} 
+
+/* Float */
+.float-left{float: left;}
+
+/* Navigation*/
+#nav{background: #F7931E;}
+#nav2{margin: -6px 0px 0px 50px; width: 100px; height:45px; float: left;}
+#nav_inner{padding: 10px 10px 10px 10px;}
+#nav_inner a{ font-size: 12px; color: #fff; margin: 0; padding: 0;}
+#nav_inner a:hover{ font-size: 12px; color: #0071BC; margin: 0 0 0 10px; padding: 0;}
+
+#nav_inner .td_sep {
+ background: transparent url(../css/images/nav_separator_darker.jpg) repeat-y left top;
+ width: 25%;
+ padding: 0 0 0 20px;
+}
+
+#nav_inner .td {width: 25%;}
+
+#navbtm{background:url('../css/images/bg_nav_btm.png') repeat-x ; height: 28px; margin: -22px 0px 0px 0px;}
+
+#top_spacer{visibility: hidden; margin: 0px 0px 0px 0px;}
+/* Navigation*/
+
+#home{background: #ffffff }
+
+#home_top
+{
+    height: 80px;
+    background: #39739C;
+    padding: 5px;
+}
+
+.home_top_text
+{
+    margin:20px 35px 0px 0px;
+    height:70px;
+    color: white;
+    font: bold;
+    font-size: 12pt;
+}
+
+#home_top_logo_stmik
+{
+    margin:10px;
+    width:70px;
+    background:url('../css/images/logo-stmikbg.png') no-repeat ;
+    height:70px;        
+}
+
+#home_mid
+{
+     width: 100%;
+     height: 500px;
+}
+
+#cntr_login
+{
+    width:350px;
+    height: 400px;
+    border: 8px solid #39739C;
+    margin:35px 0px 0px 0px;
+    background: #fff;
+    padding: 10px 20px 10px 20px ;
+}
+
+.btn_submit{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 1;
+    
+    padding: 3px 6px 3px 6px;
+    background: #F7931E ;    
+    border: 0.5px solid silver; 
+    cursor: pointer;   
+    
+   	/* css3 implementation :) */
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	position: relative;
+}
+
+.btn_submit:hover{
+    background: #0071BC ;
+}
+
+
+#logo_home{
+    margin:20px 0px 0px 0px;
+    width:250px;
+    height:80px; 
+    background:url('../css/images/logo_home.png') no-repeat ;
+}
+
+#home_btm
+{
+     height: 50px;
+     color: #000;
+     text-align: center;
+     font-size: 12px;
+}
+
+
+/* Info */
+#info-top{height: 63px; background: #39739C url('/css/images/logo_home.png')no-repeat;}
+
+/* Beranda */
+#wall-content{width: 55%; float: left; padding:10px 20px 10px 20px;background: white;}
+#left-menu{width:20%; height: 100%; float:left ; margin: 0 10px 0 10px; padding: 5px 10px 5px 5px; border-right: #ddd solid 1px;}
+#right-menu{ width: 13%; float: left;padding : 25px 0 25px 25px; border-left: #ddd solid 1px}
+#beranda_top{height: 31px;}
+#request-friend-wraper{float: right; margin-top: -30px;}
+#photo_profile{height: 150px;width: 100px;}
+
+/* Album */
+.tooltip {display:none;background:transparent url('../css/images/black_arrow.png');background-position: bottom;font-size:12px;height:80px;width:170px;padding:20px;color:#eee;}
+.tooltip div{margin-bottom:5px; height:50px;overflow: auto;}  
+#album-title{}
+#album-area{ width: 100%;max-height: 1000px;overflow: auto;}
+.album-box{width: 150px;height: 200px;float: left;margin: 5px 2.5% 30px 2.5%;background: #272727;}
+.album-content{height:150px; margin: 5px 5px 0 5px;}
+.album-name{height: 35px; width: 95%; margin: 5px auto 5px auto; text-align: center; background: #fff; color: #272727;}
+#album-name-input{height: 25px; width: 200px;}
+#album-desc-input{max-height: 100px; max-width: 250px; width: 250px; height: 70px; overflow: auto;}
+/* ----------------------- */
+
+/* Ebook */
+.ebook-thumb-box{
+    width: 45%;
+    height: 215px;
+    border:solid 1px #ddd; margin : 10px;
+    padding: 5px;
+    float: left;
+    background: #272727;
+    color: #eee;
+}
+.ebook-thumb{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 5px;
+    bottom: 10px;
+}
+
+.ebook-info{
+    font-size: 12px;
+}
+
+.ebook-desc{
+    width: 40%; 
+    height: 125px; 
+    float: left;
+    overflow: auto;
+    margin: 10px 0px 10px 0px;
+}
+
+.ebook-created{
+    opacity:0.6;
+    background: #272727;
+}
+
+/* Status */
+#status-input-area{background: #39739C;padding:5px 10px 5px 10px;}
+#status-input{ height: 70px; max-width: 97%; min-width: 97%; max-height: 250px;min-height: 50px; font-family:inherit; font-size: medium;}
+.status-box{margin-left:50px;}
+.status-username{font-weight:bold;}
+.status-username a{color:#0080FF ;}
+
+.status-message{color: #0071BC; font-size: 14px; }
+.status-area{background: #F2F2F2; padding: 5px 5px 5px 5px; margin: 2px 0px 2px 0px;}
+
+.status-info{font-size: 8px; color: #888;}
+.status-delete-box{float:right; width: 50px; height: 20px;}
+.status-report-box{float:right; width: 70px; height: 20px;}
+
+.status-delete{display: none;}
+.status-report{display: none;}
+/*----------------------------*/
+
+/* Comment */
+.comment-box{margin-left:40px;}
+.comment-username{font-weight:bold;}
+.comment-message{color: #0071BC;}
+.comment-area{width: 80%; background: #F2F2F2; padding: 5px 5px 5px 5px; margin: 2px 0px 2px 50px; min-height: 40px;}
+.txt-comment{width:95%; height:17px; max-height: 50px; max-width: 95%;}
+.comment-info{font-size: 8px; color: #888;}
+.input-comment-area{margin-left:50px; padding:5px; min-height: 20px; width: 89%; background:#f2f2f2;}
+.comment-delete-box{float:right; width: 50px; height: 20px;}
+.comment-delete{display: none;}
+
+.comment-area-box{max-height: 300px; overflow: auto;}
+/*----------------------------*/
+
+/* chat-bar */
+.chatbox {
+    	position: fixed;
+    	position:expression("absolute");
+    	width: 225px;
+	    display:none;
+    }
+    
+    .chatboxhead {
+    	background-color: #f99d39;
+    	padding:7px;
+    	color: #ffffff;
+    	border-right:1px solid #f99d39;
+    	border-left:1px solid #f99d39;
+    }
+    
+    .chatboxblink {
+    	background-color: #176689;
+    	border-right:1px solid #176689;
+    	border-left:1px solid #176689;
+    }
+    
+    .chatboxcontent {
+    	font-family: arial,sans-serif;
+    	font-size: 13px;
+    	color: #333333;
+    	height:200px;
+    	width:209px;
+    	overflow-y:auto;
+    	overflow-x:auto;
+    	padding:7px;
+    	border-left:1px solid #cccccc;
+    	border-right:1px solid #cccccc;
+    	border-bottom:1px solid #eeeeee;
+    	background-color: #ffffff;
+    	line-height: 1.3em;
+    }
+    
+    .chatboxinput {
+    	padding: 5px;
+    	background-color: #ffffff;
+    	border-left:1px solid #cccccc;
+    	border-right:1px solid #cccccc;
+    	border-bottom:1px solid #cccccc;
+    }
+    
+    .chatboxtextarea {
+    	width: 206px;
+    	height:44px;
+    	padding:3px 0pt 3px 3px;
+    	border: 1px solid #eeeeee;
+    	margin: 1px;
+    	overflow:hidden;
+    }
+    
+    .chatboxtextareaselected {
+    	border: 2px solid #f99d39;
+    	margin:0;
+    }
+    .chatboximage{
+        margin-left: -10px;
+        border: 1px #ddd solid;
+    }
+    .chatboxmessage {
+        min-height: 40px;
+    }
+    
+    .chatboxinfo {
+    	margin-left:-1em;
+    	color:#666666;
+    
+    }
+    
+    .chatboxmessagefrom {
+    	margin-left:-1em;
+    	font-weight: bold;
+    }
+    
+    .chatboxmessagecontent {
+        margin-left: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .chatboxoptions {
+    	float: right;
+    }
+    
+    .chatboxoptions a {
+    	text-decoration: none;
+    	color: white;
+    	font-weight:bold;
+    	font-family:Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+    }
+    
+    .chatboxtitle {
+    	float: left;
+    }
+    
+		#site-bottom-bar {
+			bottom: 0px ;
+			height: 30px ;
+			position: fixed ;
+			width: 100% ;
+			}
+ 
+		#site-bottom-bar-frame {
+			height: 30px ;
+			margin: 0px 10px 0px 10px ;
+			position: relative ;
+			}
+ 
+		#site-bottom-bar-content {
+			padding: 1px 10px 1px 10px ;
+            float: right;
+			}
+ 
+		#chat-menu-root {
+            text-align: left ;
+			text-decoration: none ;
+			width: 180px ;
+			}
+ 
+		#chat-menu {
+			background-color: #fff ;
+			border: 1px solid #DDD ;
+			bottom: 26px ;
+			display: none ;
+			padding: 5px 5px 0 5px ;
+			position: absolute ;
+			width: 200px ;
+			}
+ 
+		#chat-menu a {
+			color: #0080FF ;
+			display: block ;
+			margin-bottom: 4px ;
+			padding: 5px 0px 5px 5px ;
+			}
+ 
+		#chat-menu a:hover {
+			background-color: #0080FF ;
+			border-color: #ddd ;
+			color: #FFFFFF !important ;
+			}
+  
+		html,
+		body,
+		#site-body-container {
+			_height: 100% ;
+			_overflow: hidden ;
+			_width: 100% ;
+			}
+ 
+		#site-body-container {
+			_overflow-y: scroll ;
+			_overflow-x: hidden ;
+			_position: relative ;
+			}
+ 
+		/* To make up for scroll-bar. */
+		#site-bottom-bar {
+			_bottom: -1px ;
+			_position: absolute ;
+			_right: 16px ;
+			}
+ 
+		/* To make up for overflow left. */
+		#site-bottom-bar-frame {
+			_margin-left: 26px ;
+			}
+ 
+		/* To fix IE6 display bugs. */
+		#chat-menu a {
+			_display: inline-block ;
+			_width: 99% ;
+			}
+/* chat bar */ 
+
+.shadow {
+  -moz-box-shadow:    3px 3px 4px 2px #d2d2d2;
+  -webkit-box-shadow: 3px 3px 4px 2px #d2d2d2;
+  box-shadow:         3px 3px 4px 2px #d2d2d2;
+}
+
+.shadow-inside {
+   -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+
+.panel-shadow{
+  -moz-box-shadow:    3px 4px 6px 0px #525252;
+  -webkit-box-shadow: 3px 4px 6px 0px #525252;
+  box-shadow:         3px 4px 6px 0px #525252; 
+}
+
+
+.UIBeeper{
+width:230px;
+left:15px;
+bottom:30px;
+position:fixed;
+z-index:99;
+display:none;
+}
+.UIBeeper .UIBeeper_Full{
+background-color:#E1E6EE;
+border:1px solid #99A8C7;
+/*border-radius*/
+-webkit-border-radius:3px;
+   -moz-border-radius:3px;
+        border-radius:3px;
+margin:0;
+padding:3px;
+}
+.UIBeeper .UIBeeper_Full:hover{
+/* change background color on mouseover */
+background-color:#CAD1DE;
+}
+.UIBeeper .UIBeep_Bottom{
+border-bottom:none;
+}
+.UIBeeper .UIBeep_Selected{
+background:#CAD1DE;
+}
+.UIBeeper .UIBeep_Top{
+padding-top:0;
+}
+.UIBeeper .UIBeep_Bottom{
+padding-bottom:0;
+}
+.UIBeep{
+background:#E1E6EE;
+border-bottom:1px solid #BFCADE;
+overflow:hidden;
+padding:3px 0;
+clear:right;
+}
+.UIBeeper a, a:hover{
+cursor:pointer;
+color:#3B5998;
+text-decoration:none;
+}
+.UIBeep .UIBeep_NonIntentional .UIBeep_Icon{
+float:left;
+width:20px;
+height:20px;
+text-align:center;
+margin:5px 5px;
+}
+.UIBeep_Selected .UIBeep_Icon{
+margin-right:2px;
+}
+.image2{
+/* icon within the beeper */
+background-image:url(images/like.png);
+background-repeat:no-repeat;
+display:inline-block;
+height:16px;
+width:16px;
+}
+.UIBeeper .UIBeep .UIBeep_NonIntentional .beeper_x{
+/* close button */
+float:right;
+height:16px;
+width:16px;
+margin-top:6px;
+background:url(images/close.gif) no-repeat;
+visibility:hidden;
+}
+.UIBeep .beeper_x:hover{
+/* close button on mouseover */
+background:url(images/closehover.gif) no-repeat !important;
+}
+.UIBeep_Selected .beeper_x{
+display:block !important;
+visibility:visible !important;
+margin-left:4px;
+}
+.UIBeep .UIBeep_NonIntentional .UIBeep_Title{
+margin:0 20px 0 30px;
+}
+.UIBeep .UIBeep_Title{
+padding:5px 0;
+}
+

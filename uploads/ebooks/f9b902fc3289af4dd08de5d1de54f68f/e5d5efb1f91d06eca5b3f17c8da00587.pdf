@@ -1,0 +1,308 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 6016>>
+stream
+2 J
+0.57 w
+BT /F1 11.00 Tf ET
+1.000 g
+q 0 g BT 28.35 803.15 Td ( ) Tj ET Q
+BT /F2 11.00 Tf ET
+q 0 g BT 31.41 803.15 Td (Penjadwalan waktu proyek dengan metode CPM \(critical path method\) studi kasus proyek) Tj ET Q
+q 0 g BT 28.35 788.98 Td (pembangunan gedung UKM Universitas Sebelas Maret Surakarta) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F2 11.00 Tf ET
+q 0 g BT 28.35 760.63 Td (Widya Ratnasari) Tj ET Q
+BT /F1 11.00 Tf ET
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+[] 0 d
+BT /F1 11.00 Tf ET
+1.051 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 718.11 Td (Dalam pelaksanaan suatu proyek terdapat tiga aspek yang merupakan indikator keberhasilan proyek, yaitu) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+0.069 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 703.94 Td (biaya, jadwal dan mutu. Jika biaya dan waktu pelaksanaan proyek sesuai dengan perencanaan serta kualitas) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+0.234 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 689.77 Td (telah dipenuhi, maka proyek tersebut dapat dikatakan berhasil. Untuk dapat mencapai keberhasilan tersebut,) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+0.261 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 675.59 Td (maka salah satu faktor yang dapat menunjang adalah dengan membuat suatu metode perencanaan jaringan) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+0.795 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 661.42 Td (kerja yang betul-betul sesuai dengan kebutuhan. Dengan jaringan kerja \(Network Planning\) dapat diperoleh) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+1.919 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 647.25 Td (gambaran yang jelas mengenai: urutan kegiatan proyek, hubungan ketergantungan antara kegiatan yang) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+0.169 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 633.07 Td (satu dengan yang lain, kegiatan-kegiatan kritis, kebutuhan sumber daya tiap-tiap kegiatan, dan alokasi waktu) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+1.750 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 618.90 Td (pelaksanaan proyek. Jaringan kerja juga mampu menganalisa, apabila terjadi keterlambatan pelaksanaan) Tj ET Q
+BT /F1 11.00 Tf ET
+0.000 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 604.73 Td (suatu kegiatan, bagaimana pengaruhnya terhadap jadwal penyelesaian proyek secara keseluruhan.) Tj ET Q
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+[] 0 d
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+[] 0 d
+BT /F1 11.00 Tf ET
+0.546 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 562.21 Td (Dalam skripsi ini, penulis merencanakan jaringan kerja yang menggunakan metode CPM. Dipilihnya metode) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+0.202 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 548.04 Td (CPM karena dalam metode ini hanya menggunakan satu angka estimasi dan dalam prakteknya lebih banyak) Tj ET Q
+BT /F1 11.00 Tf ET
+0.000 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 533.86 Td (digunakan dalam kalangan industri atau proyek konstruksi.) Tj ET Q
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+[] 0 d
+BT /F1 11.00 Tf ET
+0.215 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 505.52 Td (Dalam kaitannya dengan permasalahan yang ada, dapat dikaji bagaimana bagan balok yang tidak dihasilkan) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+1.349 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 491.34 Td (dari analisis jaringan kerja CPM. Selanjutnya jika terjadi keterlambatan, bagaimana bentuk kurva “S” pada) Tj ET Q
+BT /F1 11.00 Tf ET
+0.000 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 477.17 Td (bagan balok hasil analisis jaringan kerja CPM tersebut.) Tj ET Q
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+[] 0 d
+BT /F1 11.00 Tf ET
+3.813 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 448.82 Td (Dari analisis, dimana proyek yang digunakan sebagai obyek penelitian adalah Proyek Pembangunan) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+3.090 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 434.65 Td (Gedung UKM Tahap.3-Lt.03 dan Finishing Lt.01, yang berlokasi di kampus Universitas Sebelas Maret) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+1.722 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 420.48 Td (Surakarta, dapat disimpulkan bahwa keterlambatan waktu pelaksanaan adalah 3 hari kerja. Dan dari dua) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+4.262 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 406.30 Td (kurva “S” pada bagan balok hasil analisis jaringan kerja CPM dapat ditunjukkan adanya hubungan) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+2.321 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 392.13 Td (keterkaitan antara luasan daerah operasional dengan besarnya tenggang waktu kegiatan. Selain itu jika) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+2.287 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 377.96 Td (terjadi keterlambatan pada pelaksanaan kegiatan kritis proyek, kurva “S” tersebut berada di luar daerah) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+3.771 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 363.78 Td (operasional proyek, sehingga mampu memprediksi secara dini akibat keterlambatan tersebut, dimana) Tj ET Q
+BT /F1 11.00 Tf ET
+BT /F1 11.00 Tf ET
+2.268 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 349.61 Td (kelebihan ini tidak ditemui pada bagan balok yang tidak dihasilkan dari jaringan kerja CPM. Dapat pula) Tj ET Q
+BT /F1 11.00 Tf ET
+0.000 Tw
+BT /F1 11.00 Tf ET
+q 0.000 g BT 31.19 335.44 Td (digambarkan histogram kebutuhan sumber daya tenaga kerja selama umur proyek.) Tj ET Q
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+BT /F1 12.00 Tf ET
+[] 0 d
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+BT /F1 11.00 Tf ET
+[] 0 d
+BT /F1 12.00 Tf ET
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+BT /F1 11.00 Tf ET
+[] 0 d
+BT /F1 12.00 Tf ET
+[] 0 d
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+BT /F1 11.00 Tf ET
+[] 0 d
+BT /F1 12.00 Tf ET
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+BT /F1 11.00 Tf ET
+[] 0 d
+q 0.000 g BT 28.35 307.09 Td ( ) Tj ET Q
+0.000 G
+1.000 g
+0.57 w
+0.000 G
+0 Tr
+0 Tr
+[] 0 d
+q 0.000 g BT 31.41 307.09 Td ( ) Tj ET Q
+BT /F2 9.00 Tf ET
+BT /F3 9.00 Tf ET
+q 0.000 g BT 285.88 11.47 Td (1/1) Tj ET Q
+BT /F1 11.00 Tf ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.28 841.89]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+>>
+>>
+endobj
+8 0 obj
+<<
+/Producer (FPDF 1.52)
+/Creator (HTML2FPDF >> http://html2fpdf.sf.net)
+/CreationDate (D:20111021033545)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000006153 00000 n 
+0000006541 00000 n 
+0000000009 00000 n 
+0000000087 00000 n 
+0000006240 00000 n 
+0000006336 00000 n 
+0000006437 00000 n 
+0000006649 00000 n 
+0000006773 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+6876
+%%EOF
